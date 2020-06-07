@@ -12,5 +12,4 @@ function Redirect (props) {
     return <React.Fragment />;
 }
 
-
 export default withRouter(Redirect);
